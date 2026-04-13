@@ -40,7 +40,7 @@ hangman-flask/
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/muhammad-azeem-deve/RhombixTechnologies_Task2-Hangman-Game.git
+- git clone https://github.com/muhammad-azeem-deve/RhombixTechnologies_Task2-Hangman-Game-
 - cd hangman-flask
 ### 2. Install Dependencies
 - pip install flask
